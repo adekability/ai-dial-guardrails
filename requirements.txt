@@ -2,3 +2,5 @@ langchain-community>=0.4.1
 langchain-openai>=1.0.2
 presidio-analyzer>=2.2.360
 presidio_anonymizer>=2.2.360
+pydantic>=2.0.0
+spacy>=3.7.0
